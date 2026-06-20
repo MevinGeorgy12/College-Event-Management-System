@@ -10,6 +10,11 @@ A Java Swing and MySQL based application for managing college events, workshops 
 - Notifications
 - Event Management
 
+- ## Database Setup
+1. Create database `event_management_db`
+2. Import `database_setup.sql`
+3. Run the project in NetBeans
+
 ## Technologies Used
 - Java Swing
 - MySQL
